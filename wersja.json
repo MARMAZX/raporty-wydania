@@ -1,7 +1,7 @@
 {
-    "wersja":  "0.1.5",
-    "adres":  "https://github.com/MARMAZX/raporty-wydania/releases/download/v0.1.5/Raporty.exe",
-    "podpis":  "V1iTXb8/ZJnqlD7curtqTYkQwSqByw4T1Q8IZrgZq7UKFfYkSsDBNf+lZFzAvjEVzNSMhAOs7BsQg1oH4Wj6bxNgZRnyLXzInLWBnGIm8iZwk0XSHVXbRkMCknTE441ZYtXrsT4SIEx8kXt72PT3cS89CJWm3D8LLVP4EMv8/4YCDHAZ15IxEnctJeoIhA2Vt0m0VpPsEROqcft7Ev3qIknNu0eG+z8gb5G73y9XJsf2d38x1akflV3P9bRuYzKjftb9kkyUcDc337E0lZ7950Dsk/UbKCDlzrIgdcu5638uEgp94dKazfN4vu7ZKNLSmWDXsE/67hyHo1JGkq1RVw==",
-    "opis":  "Rotacja hasla konta serwisowego admin. Bez zmian w raportach ani w polaczeniu z baza.",
-    "wydano":  "2026-11-09"
+    "wersja":  "0.1.6",
+    "adres":  "https://github.com/MARMAZX/raporty-wydania/releases/download/v0.1.6/Raporty.exe",
+    "podpis":  "BRH0gWoGD/8cCzxLfnND5UFRE8SIGqeZsdNyeuH+b8FGLHXovKApXUb7Cle72JD+caOxFSP8O48YymmZFP+xCiyPEcZPCa6yzI4z5Fb33nwyRauJCPo4C9R59sZUjCprTI8yEpx/3BrVky9+0YGmpLtQxjZAfrsz85ZpjtbTSegXI0EY7addyBn+TgFwDXylV+LgDq5trMWg2Ye1NjoBWBSp021qc2drMLmfnCbICpRq8lpeAC2u+FVU6sTllB+8nQhmV+d5tiTPXiSSiOnHicBGuALFOc7yDppifVQaOs8ro1OhDfYHV0nn741ShupT8ueZhaHR+k56AeUWl/RNvw==",
+    "opis":  "Definicje raportow moga miec podpis wpisany w sam plik. Jeden plik na raport zamiast dwoch - mniej do kopiowania przy dokladaniu raportu.",
+    "wydano":  "2026-11-10"
 }
